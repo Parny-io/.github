@@ -14,8 +14,8 @@
                 <a href="https://www.linkedin.com/company/parny-io" target="_blank"><img src="https://cdn.parny.io/parny/linkedin.png" alt="LinkedIn" height="32px"></a>
                 <a href="https://www.instagram.com/parny.io" target="_blank"><img src="https://cdn.parny.io/parny/square-instagram.png" alt="Instagram" height="32px"></a>
                 <a href="mailto:support@parny.io" target="_blank"><img src="https://cdn.parny.io/parny/square-mail.png" alt="Contact Support" height="32px"></a>
+                <p>2024 Parny. All rights reserved.</p>
             </div>
-            <p>&copy; <span id="currentYear"></span> Parny. All rights reserved.</p>
         </div>
     </div>
 </body>
