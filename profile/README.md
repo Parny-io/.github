@@ -19,8 +19,5 @@
             <p>&copy; <span id="currentYear"></span> Parny. All rights reserved.</p>
         </div>
     </div>
-    <script>
-        document.getElementById('currentYear').textContent = new Date().getFullYear();
-    </script>
 </body>
 </html>
