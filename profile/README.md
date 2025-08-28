@@ -7,4 +7,15 @@
     <h2>Everything You Need to  Stay in Control and Respond Faster</h2>
     <p>Parny combines AI-powered anomaly detection, alert routing, on-call automation, and real-time infrastructure mapping everything your team needs to reduce noise, fix incidents faster, and protect uptime.</p>
     </center>
+    <ul>
+      <li><b>SLA tracking:</b> Monitor SLA targets in real-time and get alerted before you breach them.</li>
+      <li><b>Smart Alert Routing:</b> Route alerts to the right person, at the right time based on context, urgency, and workload.</li>
+      <li><b>On-Call Management:</b> Create schedules, automate escalations, and reduce fatigue with intelligent rotation logic.</li>
+      <li><b>AI-Powered Anomaly Detection:</b> Automatically detect unusual activity across your stack to stop incidents before they escalate.</li>
+      <li><b>InfraMap:</b> See your services and dependencies in real time. Map, trace, and resolve issues faster.</li>
+      <li><b>Uptime Pulse:</b> Monitor uptime across critical services with real-time signals and heartbeat checks catch silent failures before your users do.</li>
+      <li><b>AI Assistant:</b> Parny’s AI helps investigate alerts, suggest actions, and accelerate resolution times.</li>
+      <li><b>Status Pages:</b> Share live system status with internal teams or end users customizable and easy to set up.</li>
+    </ul>
+
 </html>
